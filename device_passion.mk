@@ -21,7 +21,7 @@ DEVICE_PACKAGE_OVERLAYS := vendor/htc/passion/overlay
 NO_DEFAULT_SOUNDS := true
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.ringtone=Ring_Digital.ogg \
+    ro.config.ringtone=Ring_Digital_02.ogg \
     ro.config.notification_sound=pixiedust.ogg \
     ro.config.alarm_alert=Alarm_Classic.ogg \
     ro.com.android.wifi-watchlist=GoogleGuest \
